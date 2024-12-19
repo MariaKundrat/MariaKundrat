@@ -3,5 +3,5 @@
 -->
 <div style="display: flex; justify-content: center; align-items: center; background-color: black; padding: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MariaKundrat&show_icons=true&locale=en&layout=compact" alt="MariaKundrat" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MariaKundrat&show_icons=true&locale=en" alt="MariaKundrat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MariaKundrat&show_icons=true&locale=en" alt="MariaKundrat" />
 </div>
